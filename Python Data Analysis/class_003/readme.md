@@ -1,9 +1,3 @@
-
-
-Less talking, more code. Every concept gets a one-line reason, then straight to code, then exercises with solutions.
-
----
-
 ## Part 1: NumPy → Pandas
 
 NumPy is great for numbers only. Real data has names, cities, missing values, mixed types — NumPy can't handle that cleanly. That's why Pandas exists.
