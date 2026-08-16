@@ -1,4 +1,4 @@
-# Pandas Class 2: Full Exploratory Data Analysis of the Superstore Data
+# Full Exploratory Data Analysis of the Superstore Data
 
 In Class 1 we learned what this dataset is. Today we behave like an analyst who has been asked a real question by the business:
 
