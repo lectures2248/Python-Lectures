@@ -1,4 +1,4 @@
-# Pandas Class 1: Real Sales Analysis with Superstore_Sales.csv
+# Real Sales Analysis with Superstore_Sales.csv
 
 Pandas gives us a **DataFrame**, a table with rows and columns that we control with Python code. One column of it is called a **Series**. That is all the theory we need. Open the file and start asking questions.
 
